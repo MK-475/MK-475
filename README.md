@@ -2,7 +2,7 @@
 
 <!-- Banner (opcional). Use sua imagem local ou remova este bloco -->
 <p align="center">
-  <img src="assets/images/img-perfil.jpg" alt="Banner - Jessica Maria" width="30%" />
+  <img src="img-perfil.jpg" alt="Banner - Jessica Maria" width="30%" />
 </p>
 
 <h1 align="center">Olá, eu sou Jessica Maria 🐦‍⬛</h1>
