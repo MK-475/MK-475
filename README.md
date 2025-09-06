@@ -90,7 +90,7 @@ Estou organizando meu primeiro repositório de designer público. Em breve, voc�
 
 <p align="center">
   <sub>Contador de visitas</sub><br/>
-  <img src="https://komarev.com/ghpvc/?username=AssassinoShinigami1987&color=blueviolet&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=MK-475&color=blueviolet&style=flat-square" />
 </p>
 
 <!--
