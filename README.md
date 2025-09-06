@@ -70,12 +70,12 @@ Estou organizando meu primeiro repositório de designer público. Em breve, voc�
 ## Estatísticas e métricas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AssassinoShinigami1987&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssassinoShinigami1987&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MK-475&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-475&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AssassinoShinigami1987&theme=transparent&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=MK-475&theme=transparent&hide_border=true" height="170" />
 </p>
 
 ---
