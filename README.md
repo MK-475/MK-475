@@ -75,25 +75,21 @@ Aqui você encontra meus projetos de programação, desenvolvimento web, educaç
 <div align="center">
 
 <a href="https://github.com/MK-475">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MK-475&show_icons=true&include_all_commits=true&theme=transparent&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB&icon_color=FACC15&hide_border=true&border_radius=12&rank_icon=percentile&custom_title=Meu%20desempenho%20no%20GitHub" alt="Estatísticas gerais do GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MK-475&show_icons=true&include_all_commits=true&theme=transparent&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&icon_color=22C55E&hide_border=true&border_radius=12&rank_icon=percentile&custom_title=Meu%20desempenho%20no%20GitHub" alt="Estatísticas gerais do GitHub" />
 </a>
 
 <a href="https://github.com/MK-475">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-475&layout=donut&theme=transparent&bg_color=0D1117&title_color=22C55E&text_color=E5E7EB&hide_border=true&border_radius=12&langs_count=6" alt="Distribuição de linguagens de programação" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK-475&layout=donut&theme=transparent&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB&hide_border=true&border_radius=12&langs_count=6" alt="Distribuição de linguagens de programação" />
 </a>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com/?user=MK-475&background=0D1117&ring=22C55E&fire=FACC15&currStreakLabel=22C55E&sideLabels=E5E7EB&currStreakNum=FACC15&sideNums=22C55E&dates=9CA3AF&hide_border=true&border_radius=12" alt="Sequência de contribuições no GitHub" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MK-475&bg_color=0D1117&color=22C55E&line=FACC15&point=FFFFFF&area=true&area_color=14532D&hide_border=true&radius=12&custom_title=Minha%20atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub" />
+<img width="90%" src="https://streak-stats.demolab.com/?user=MK-475&background=0D1117&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8&sideLabels=E5E7EB&currStreakNum=22C55E&sideNums=38BDF8&dates=9CA3AF&hide_border=true&border_radius=12" alt="Sequência de contribuições no GitHub" />
 
 </div>
 
 <p align="center">
-  <sub>🌱 As estatísticas dependem da disponibilidade dos serviços externos. As linguagens exibidas refletem os repositórios analisados, não necessariamente tudo o que sei.</sub>
+  <sub>💙💚 As estatísticas dependem da disponibilidade dos serviços externos. As linguagens exibidas refletem os repositórios analisados, não necessariamente tudo o que sei.</sub>
 </p>
 
 ---
